@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiyAStar", "DiyAStar\DiyAStar.csproj", "{2EE71D99-6D6D-43FA-BD65-9F8E5059314A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE71D99-6D6D-43FA-BD65-9F8E5059314A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE71D99-6D6D-43FA-BD65-9F8E5059314A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE71D99-6D6D-43FA-BD65-9F8E5059314A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE71D99-6D6D-43FA-BD65-9F8E5059314A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80BDB0E4-26E4-47C5-983E-07E06A8C123F}
+	EndGlobalSection
+EndGlobal
