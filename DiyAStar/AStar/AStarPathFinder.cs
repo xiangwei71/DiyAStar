@@ -5,6 +5,12 @@ namespace DiyAStar
 {
     public class AStarPathFinder
     {
+        public static void resetIGraphNode(IGraphNode[] aliveNode)
+        {
+            foreach (IGraphNode node in aliveNode)
+                node.resetPathInfo();
+        }
+
         private PriorityQueue<IGraphNode> q;
 
         public AStarPathFinder()

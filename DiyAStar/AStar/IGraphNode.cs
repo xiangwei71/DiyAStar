@@ -16,6 +16,7 @@ namespace DiyAStar
         void setComeFrom(IGraphNode node);
         IGraphNode getComeFrom();
         string getNodeKey();
+        void resetPathInfo();
     }
 }
 
